@@ -1,7 +1,7 @@
 # Simple-Calculator - Calculation of two numbers only
 
 ## Introduction
-A simple calculator made with Tkinter that takes only two numbers
+A simple calculator made with Tkinter that takes only two numbers.
 The project was made for practice purposes
 
 ## Technologies
